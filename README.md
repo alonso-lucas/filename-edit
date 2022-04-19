@@ -1,0 +1,1 @@
+I like downloading my music from Youtube with the Y2Mate extension. But having the "y2mate - " name at the beggining of every file is annoying. Which is why I created this script, which renames all files in a given folder by removing everything before the first dash in the filename.
